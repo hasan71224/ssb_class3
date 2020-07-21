@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+}
+img{
+	max-width: 100%;
+}
+.banner{
+	text-align: center;
+	padding: 130px 15%;
+	background-attachment: fixed;
+}
+.bg1{
+	background-image: url(../images/img1.jpg);
+	background-size: cover;
+}
+.bg2{
+	background-image: url(../images/img2.jpg);
+	background-size: cover;
+}
+.bg3{
+	background-image: url(../images/img3.jpg);
+	background-size: cover;
+}
+.bg4{
+	background-image: url(../images/img4.jpg);
+	background-size: cover;
+}
+.bg5{
+	background-image: url(../images/img5.jpg);
+	background-size: cover;
+}
+.bg6{
+	background-image: url(../images/img6.jpg);
+	background-size: cover;
+}
+h1{
+	margin: 0;
+	font-size: 70px;
+	font-family: Arial;
+}
+p{
+	font-size: 30px;
+	font-family: Arial;
+	line-height: 1.7;
+}
+.box{
+	background: #b8ebf9b8;
+    padding: 30px 40px;
+    color: #0526b5;
+}
